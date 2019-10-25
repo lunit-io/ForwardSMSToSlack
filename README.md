@@ -1,5 +1,5 @@
 # Welcome to ForwardSMSToSlack 👋
-[![License: GNU General Public License v3.0](https://img.shields.io/badge/License-GNU General Public License v3.0-yellow.svg)](https://github.com/lunit-io/ForwardSMSToSlack/blob/master/LICENSE)
+[![License: GNU General Public License v3.0](https://img.shields.io/badge/License-GNU%20General%20Public%20License%20v3.0-yellow.svg)](https://github.com/lunit-io/ForwardSMSToSlack/blob/master/LICENSE)
 
 > Android application that forwards received SMSs to Slack channels
 
